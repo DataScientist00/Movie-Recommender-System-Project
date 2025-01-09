@@ -1,5 +1,10 @@
 # Project: Movie Recommender System Using Machine Learning!
 
+## Watch the Video 📺
+
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=sURMcYL9Sro)
+
+
 ![data science thumbs](https://github.com/user-attachments/assets/3f94e19d-f954-4ddd-90d0-b3a4a629b4aa)
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
